@@ -1,4 +1,4 @@
-# Pip'In, le programme simple pour une mission simple
+# Pip'In, un programme simple pour une mission simple
 
 ## Pré-requis
 
