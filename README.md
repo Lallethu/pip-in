@@ -4,7 +4,7 @@
 
 ![Pip'In](./pipin/src/img/pip-in.png "Pip'In, le color picker propulsé par Java")
 
-## Describtion
+## Description
 
 Pip'In est un petit programme écrit en Java vanilla, permettant de récupérer la couleur d'un pixel sur l'écran. On peut configurer la touche de raccourci pour activer la saisie de la couleur. Lorsque la touche est pressée, le programme calcule la valeur hexadécimale de la couleur du pixel sous le curseur de la souris et la copie dans le presse-papiers, une pop-up s'affiche pour annoncer la couleur récupérée et la couleur est affichée dans un rectangle sur la fenêtre du programme.
 
