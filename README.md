@@ -2,7 +2,7 @@
 
 ## Pré-requis
 
-- Java >= 17 : (download)[https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html]
+- Java >= 17 : [download](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
 ## Introduction
 
