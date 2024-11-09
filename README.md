@@ -1,5 +1,9 @@
 # Pip'In, le programme simple pour une mission simple
 
+## Pré-requis
+
+- Java >= 17 : (download)[https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html]
+
 ## Introduction
 
 ![Pip'In](./pipin/src/img/pip-in.png "Pip'In, le color picker propulsé par Java")
